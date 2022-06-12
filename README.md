@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Dzaky Tamir (zainic)**
 <p align="left">
-<a href="https://github.com/talhazulfakhri">
+<a href="https://github.com/zainic">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zainic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zainic&layout=compact&langs_count=8&theme=algolia"/>
 </a>
