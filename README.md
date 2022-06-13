@@ -8,7 +8,7 @@ My name is **Dzaky Tamir (zainic)**
 </p>
 <p> 🎓 I’m currently studying in University of Brawijaya </p>
 <p> 🌱 I’m currently learning Mathematics and Programming </p>
-<p> 👯 I’m looking to collaborate on PadTani App (https://github.com/zainic/C22-PS027) </p>
+<p> 💻 I’m currently working on PadTani App (https://github.com/zainic/C22-PS027) </p>
 <!--
 **zainic/zainic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
