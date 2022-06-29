@@ -11,7 +11,7 @@ I love *Mathematics* and *Programming* especially about automation, machine lear
 - My Current Status : Undergraduate Student 6th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 - My Current Status : Study Independent in [Bangkit](https://grow.google/intl/id_id/bangkit/) 2022, Machine Learning Path
 - Finished [IndoMS School](https://indoms.id/indoms-school/) Inner Algebra, Graph, and its relation.
-- Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
+- Finished Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
 
 *This is my project*:
 
