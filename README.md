@@ -4,16 +4,17 @@
 
 My name is **Dzaky Tamir (zainic)**
 
-I love *Mathematics* and *Programming* especially about automation, machine learning, data analytical, data processing, image processing, mathematical animation, and mathematical modeling.
+I love **Mathematics** and **Programming** especially about automation, machine learning, data analytical, data processing, image processing, mathematical animation, and mathematical modeling.
+I'm currently trying to build program to make everything easier. 
 
-*This is my education*:
+🎓 *This is my education*:
 
 - My Current Status : Undergraduate Student 6th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 - My Current Status : Study Independent in [Bangkit](https://grow.google/intl/id_id/bangkit/) 2022, Machine Learning Path
 - Finished [IndoMS School](https://indoms.id/indoms-school/) Inner Algebra, Graph, and its relation.
 - Finished Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
 
-*This is my project*:
+📋 *This is my project*:
 
 - Developing [WhatsApp Bot](https://github.com/zainic/WhatsApp-Python-Shell) for automation and more
 - Capstone Project at Bangkit 2022 about [Rice Leaf Nitrogren and Disease Classification](https://github.com/zainic/C22-PS027)
