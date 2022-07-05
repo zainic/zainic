@@ -17,6 +17,7 @@ I'm currently trying to build program to make everything easier.
 📋 *This is my project*:
 
 - Developing [WhatsApp Bot](https://github.com/zainic/WhatsApp-Python-Shell) for automation and more
+- Developing [Simple Games](https://github.com/zainic/simple_games) from scratch
 - Capstone Project at Bangkit 2022 about [Rice Leaf Nitrogren and Disease Classification](https://github.com/zainic/C22-PS027)
 - Created simple database and website [Nusantara Travel Database](https://github.com/zainic/Nusantara-Travel-Database) 
 
