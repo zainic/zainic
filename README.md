@@ -9,7 +9,7 @@ I'm currently trying to build program to make everything easier.
 
 🎓 *This is my education*:
 
-- My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
+- My Current Status : Undergraduate Student 8th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2022, Machine Learning Path
 - Finished [IndoMS School](https://indoms.id/indoms-school/) Inner Algebra, Graph, and its relation.
 - Finished Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
