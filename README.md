@@ -9,7 +9,7 @@ I'm currently trying to build program to make everything easier.
 
 🎓 *This is my education*:
 
-- My Current Status : Undergraduate Student 8th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
+- Mathematics Fresh Graduate in [Brawijaya University](https://ub.ac.id/)
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2022, Machine Learning Path
 - Finished [IndoMS School](https://indoms.id/indoms-school/) Inner Algebra, Graph, and its relation.
 - Finished Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
@@ -17,7 +17,7 @@ I'm currently trying to build program to make everything easier.
 📋 *This is my project*:
 
 - Developing [WhatsApp Bot](https://github.com/zainic/WhatsApp-Python-Shell) for automation and more
-- Developing [Simple Games](https://github.com/zainic/simple_games) from scratch
+- Developing [Simple Games](https://github.com/zainic/simple_games) and [Zainiship](https://github.com/zainic/zainiship) from scratch
 - Capstone Project at Bangkit 2022 about [Rice Leaf Nitrogren and Disease Classification](https://github.com/zainic/C22-PS027)
 - Created simple database and website [Nusantara Travel Database](https://github.com/zainic/Nusantara-Travel-Database) 
 
