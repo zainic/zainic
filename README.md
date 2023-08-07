@@ -9,7 +9,7 @@ I'm currently trying to build program to make everything easier.
 
 🎓 *This is my education*:
 
-- Mathematics Fresh Graduate in [Brawijaya University](https://ub.ac.id/)
+- Mathematics Fresh and Best Graduate in [Brawijaya University](https://ub.ac.id/)
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2022, Machine Learning Path
 - Finished [IndoMS School](https://indoms.id/indoms-school/) Inner Algebra, Graph, and its relation.
 - Finished Acceleration on Senior High School [SMAN 11 Kabupaten Tangerang](https://sman11kabtng.sch.id)
@@ -39,10 +39,9 @@ I'm currently trying to build program to make everything easier.
 <br/>
 
 [facebook]: https://facebook.com/dzaky.tamir
-[twitter]: https://twitter.com/TamirDzaky
+[twitter]: https://twitter.com/Zainic_id
 [linkedin]: https://www.linkedin.com/in/dzaky-tamir/
 [instagram]: https://www.instagram.com/dzaky_tamir
-[telegram]: https://t.me/zainic
 
 <!--
 <p> 🎓 I’m currently studying in University of Brawijaya </p>
