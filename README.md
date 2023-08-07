@@ -29,12 +29,10 @@ I'm currently trying to build program to make everything easier.
 </p>
 
 #### Let's connect with me:
-
 [<img align="left" alt="dzakytamir | facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/1200px-Facebook_logo_36x36.svg.png" />][facebook]
-[<img align="left" alt="dzakytamir | twitter" width="22px" src="http://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
+[<img align="left" alt="dzakytamir | twitter" width="22px" src="https://news.topusainsights.com/wp-content/uploads/2023/07/twitter-x-logo.jpg" />][twitter]
 [<img align="left" alt="dzakytamir | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
 [<img align="left" alt="dzakytamir | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="dzakytamir | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />][telegram]
 
 <br/>
 
