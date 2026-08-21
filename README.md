@@ -29,10 +29,10 @@ I'm currently trying to build program to make everything easier.
 </p>
 
 #### Let's connect with me:
-[<img align="left" alt="dzakytamir | facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/1200px-Facebook_logo_36x36.svg.png" />][facebook]
-[<img align="left" alt="dzakytamir | twitter" width="22px" src="https://news.topusainsights.com/wp-content/uploads/2023/07/twitter-x-logo.jpg" />][twitter]
-[<img align="left" alt="dzakytamir | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
-[<img align="left" alt="dzakytamir | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="dzakytamir | facebook" width="22px" src="https://freepnglogo.com/images/all_img/facebook-logo.png" />][facebook]
+[<img align="left" alt="dzakytamir | twitter" width="22px" src="https://pngimg.com/d/x_logo_PNG14.png" />][twitter]
+[<img align="left" alt="dzakytamir | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" />][linkedin]
+[<img align="left" alt="dzakytamir | Instagram" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-2016.png" />][instagram]
 
 <br/>
 
